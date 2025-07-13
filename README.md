@@ -63,4 +63,4 @@ This dataset contains specifications for a wide range of electric vehicles, incl
 
 ##  Insights & Recommendations
 
-![Insights & Recommendations].(Insights&Recommendation.png)
+![Insights & Recommendations](Insights&Recommendation.png)
